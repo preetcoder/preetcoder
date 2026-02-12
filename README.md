@@ -6,6 +6,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="250" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a Senior Software Engineer with 8+ years of experience building secure, scalable, and high-performance systems.
@@ -20,10 +26,10 @@ I’m passionate about clean architecture, performance optimization, and enginee
 
 ## 🛠 Tech Stack
 
-### 💻 Backend Languages
+### 💻 Languages
 - Java
 - Ruby
-- Node.js
+- javaScript
 - Kotlin
 - Python
 - PHP
