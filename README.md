@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Senior Software Engineer with 8+ years of experience building secure, scalable, and high-performance systems.
+I'm a Senior Software Engineer with 10+ years of experience building secure, scalable, and high-performance systems.
 
 I specialize in designing distributed systems, developing microservices architectures, and building cloud-native applications on AWS. 
 
